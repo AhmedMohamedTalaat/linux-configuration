@@ -5,16 +5,16 @@
     - host : http://18.197.254.118
 
 # Installed Software:
-     apache2
-     libapache2-mod-wsgi
-     flask
-     flask-sqlalchemy
-     requests
-     sqlalchemy
-     httplib2
-     oauthlib
-     oauth2client
-     finger
+   - apache2
+   - libapache2-mod-wsgi
+   - flask
+   - flask-sqlalchemy
+   - requests
+   - sqlalchemy
+   - httplib2
+   - oauthlib
+   - oauth2client
+   - finger
 
 # Steps of Config:
   - chmod 600 instance_key
